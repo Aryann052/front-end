@@ -1,2 +1,2 @@
-export const baseUrl = 'http://192.168.1.139/api';
-export const base = 'http://192.168.1.139:5000';
+export const baseUrl = 'https://backend-x94x.onrender.com/api';
+export const base = 'https://backend-x94x.onrender.com';
